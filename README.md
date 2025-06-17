@@ -75,8 +75,8 @@ VideoGenerator_Assessment_MockApp_Forthlogic.ai
 │   ├── .gitignore
 │   ├── package-lock.json
 │   ├── package.json
-│   ├── README.md
 │   ├── tsconfig.json
+│── README.md
 
 ```
 
