@@ -53,16 +53,31 @@ Runs the React-based frontend locally.
 
 ## Code Structure
 ```
-Mock-Video_App-for-ForthLogic.ai
-│── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
+VideoGenerator_Assessment_MockApp_Forthlogic.ai
 │── backend/
-│   ├── routes/
-│   ├── controllers/
-│   ├── mockVideos/
-│── README.md
+│   ├── node_modules/
+│   ├── index.js
+│   ├── package-lock.json
+│   ├── package.json
+│── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── services/
+│   │   │   ├── api.ts
+│   │   ├── App.css
+│   │   ├── App.test.tsx
+│   │   ├── App.tsx
+│   │   ├── index.css
+│   │   ├── index.tsx
+│   │   ├── react-app-env.d.ts
+│   │   ├── reportWebVitals.ts
+│   │   ├── setupTests.ts
+│   ├── .gitignore
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── README.md
+│   ├── tsconfig.json
+
 ```
 
 ## API Integration (Mock)
