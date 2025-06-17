@@ -30,8 +30,9 @@ Since direct access to Gemini Veo3's API is limited, this implementation feature
 
 ### **Clone Repository**
 ```bash
-git clone https://github.com/KiranAli25/Mock-Video_App-for-ForthLogic.ai.git
-cd Mock-Video_App-for-ForthLogic.ai
+git clone https://github.com/KiranAli25/VideoGenerator_Assessment_MockApp_Forthlogic.ai.git
+cd VideoGenerator_Assessment_MockApp_Forthlogic.ai
+
 ```
 
 ### **Backend Setup**
